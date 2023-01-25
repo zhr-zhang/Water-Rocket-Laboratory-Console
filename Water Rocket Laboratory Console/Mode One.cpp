@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include "Mode One.h"
 #include "Interaction.h"
